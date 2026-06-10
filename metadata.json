@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Legends Game Booster Analyzer",
+  "description": "An architectural review, technical analyzer, and companion dashboard for Mobile Legends optimization on Android 10-15.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
